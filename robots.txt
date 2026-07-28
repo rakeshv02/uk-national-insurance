@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uk-national-insurance.tabutility.com/sitemap.xml
